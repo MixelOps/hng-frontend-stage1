@@ -10,7 +10,7 @@ A small, accessible, responsive profile card component built with **HTML**, **CS
 - Tested with `data-testid` attributes for automated checks
 
 ## 🌐 Live Demo
-[View on GitHub Pages](https://Mixel47-ops.github.io/hng-profile-card/)
+[View on GitHub Pages](https://Mixelops.github.io/hng-profile-card/)
 
 ## 💻 Run Locally
 To run this project locally:
