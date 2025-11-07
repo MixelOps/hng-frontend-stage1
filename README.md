@@ -1,4 +1,4 @@
-# HNG Frontend Task 1 – Profile Card
+# MixelOps' Profile Card
 
 A small, accessible, responsive profile card component built with **HTML**, **CSS**, and **Vanilla JavaScript**.
 
